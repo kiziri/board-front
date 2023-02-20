@@ -24,4 +24,6 @@ yarn-error.log*
 
 # ide
 /.vscode
+/.idea
 *.iml
+.xml
