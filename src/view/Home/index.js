@@ -1,7 +1,7 @@
 import Header from "../Common/Footer/Header";
 import Footer from "../Common/Header/Footer";
 
-const Home = () => {
+const Home_index = () => {
   return (
     <>
       <Header />
@@ -11,4 +11,4 @@ const Home = () => {
     </>
   );
 };
-export default Home;
+export default Home_index;

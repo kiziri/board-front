@@ -9,3 +9,4 @@ const Login_index = () => {
     </div>
   );
 };
+export default Login_index;
